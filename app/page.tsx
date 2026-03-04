@@ -11,8 +11,8 @@ export default function Home() {
       <h2 style={{ marginTop: 40, marginBottom: 0 }}>2026 - Present</h2>
       <p style={{ marginTop: 8, fontSize: 18 }}>
         I recently founded a company that turns human expertise into
-        training environments to improve models for frontier AI labs and
-        enterprises.
+        training environments to improve model capability for frontier AI labs
+        and enterprises.
       </p>
       <h2 style={{ marginTop: 40, marginBottom: 0 }}>2025</h2>
       <p style={{ marginTop: 8, fontSize: 18 }}>
